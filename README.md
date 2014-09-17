@@ -7,13 +7,15 @@ type: todo
 
 ## All of the Goats
 
-<img src="https://flatiron.atlassian.net/wiki/download/attachments/15597582/giphy-3.gif?version=1&modificationDate=1400603677636&api=v2">
+<img src="https://i.chzbgr.com/maxW500/5467208704/hF5B014C9/">
 
 1. Create a `Goat` class.
 
-{% img https://flatiron.atlassian.net/wiki/download/attachments/15597582/giphy-6.gif?version=1&modificationDate=1400603679545&api=v2 %} 
+<img src="https://i.chzbgr.com/maxW500/7125393920/h307E1165/">
 
 2. Goats have the following attributes: age(integer), name(string), pokes(integer, default to zero in initalization), milk_in_udders(float), moody(true/false, default to false upon initialization).
+
+<img src="https://i.chzbgr.com/maxW500/6472264448/h7A02AACD/">
 
 3. Create the following actions:
   a. A `poke` method that makes the goat puts "baa" if the number of pokes is less that 3. If the goat has more than 3 pokes, it should puts "BAAAAAAAAA GO AWAY" and set the moody attribute to true. The method should also increment the number of pokes by one.
@@ -27,3 +29,5 @@ type: todo
     + Any other food will cause the goat to throw up (putsing "BAAAAA"), and decrease the `milk_in_udders` by 10%
 
 Now create an instance of `Goat`, poke it until it gets moody, feed it and milk it. Add any other additional methods you want!
+
+<img src="http://38.media.tumblr.com/54c093f431e15c5a9053c8efe4c93124/tumblr_n61p6nOUXO1r33ieuo1_250.gif">
