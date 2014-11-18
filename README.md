@@ -13,7 +13,7 @@ type: todo
 
 <img src="https://i.chzbgr.com/maxW500/7125393920/h307E1165/">
 
-2. Goats have the following attributes: age(integer), name(string), pokes(integer, default to zero in initalization), milk_in_udders(float), moody(true/false, default to false upon initialization).
+2. Goats have the following attributes: age, name, pokes (an integer that defaults to zero on initialization), milk_in_udders, moody (a true/false boolean that defaults to false upon initialization).
 
 <img src="https://i.chzbgr.com/maxW500/6472264448/h7A02AACD/">
 
